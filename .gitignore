@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+powershell.cmd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Spark runtime & metastore
+metastore_db/
+derby.log
+.sparkStaging/
+spark-warehouse/
+
+# Large Datasets & Streaming temporary directories
+# (Full 550,000-row raw CSV can be regenerated using 'python src/data_generator.py')
+data/raw/flights_raw.csv
+data/processed/
+data/streaming_input/
+data/streaming_output/
+data/streaming_checkpoint/

@@ -1,0 +1,4 @@
+Model,Accuracy,F1_Score,Precision,Recall,AUC_ROC,AUC_PR,Positive_Precision,Positive_Recall,Positive_F1,Train_Time_Sec
+LogisticRegression,0.6018,0.6081,0.6239,0.6018,0.6343,0.4997,0.4692,0.5833,0.52,69.39
+RandomForest,0.5915,0.5984,0.6206,0.5915,0.6317,0.4946,0.4601,0.6025,0.5217,43.88
+GradientBoostedTrees,0.5982,0.6049,0.6243,0.5982,0.6347,0.4982,0.4663,0.5976,0.5238,133.77
