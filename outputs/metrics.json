@@ -18,7 +18,7 @@
         "TN": 41751,
         "FN": 16669
       },
-      "training_time_sec": 69.39
+      "training_time_sec": 77.97
     },
     "RandomForest": {
       "accuracy": 0.5915,
@@ -36,7 +36,7 @@
         "TN": 39868,
         "FN": 15901
       },
-      "training_time_sec": 43.88
+      "training_time_sec": 49.36
     },
     "GradientBoostedTrees": {
       "accuracy": 0.5982,
@@ -54,7 +54,7 @@
         "TN": 40789,
         "FN": 16096
       },
-      "training_time_sec": 133.77
+      "training_time_sec": 164.48
     }
   },
   "feature_importances": {
